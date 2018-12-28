@@ -1,11 +1,12 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Biagio Carrella's CV 
+description: bcarrella's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://bcarrella.github.io
+url: https://bcarrella.github.io
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: UA-5243448-5
+cv_url: /assets/CV-Europass-20181228-Carrella-IT.pdf
 
 # Build settings
 markdown: kramdown
@@ -14,72 +15,81 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Biagio Carrella
+  title: ICT Specialist
+  address: Napoli, Italy
+  email: mail(at)biagiocarrella.it
+  link: http://www.biagiocarrella.it
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: bcarrella
+  linkedin: bcarrella
+  twitter: bcarrella
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Banca D'Italia
+      location: Roma, Italy
+      title: System Engineer
+      started: 2017
+      duration: (2017 - Present)
+      description: Service asset and configuration management using IBM Tivoli Application Dependency Discovery Manager and IBM Smart Control Desk (Maximo) Asset Management.
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: 3F & Edin S.p.A.
+      location: Napoli, Italy
+      title: Software Developer
+      started: 2007
+      duration: (2007 - 2017)
+      description: Application Developer, Database Administrator in a wide variety of business applications. Particularly interested in client/server and relational database design using MySQL. Advanced CAD and geometrical application developer.
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Lutech S.p.A.
+      location: Milano, Italy
+      title: System Engineer
+      started: 2006
+      duration: (2006 - 2006)
+      description:  Internship on Genesys Framework for Computer Telephony Integration
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: Università di Salerno
+      location: Fisciano, Italy
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      major: Computer Science
+      started: 2001
+      duration: (2001 - 2005)
+      description: Bachelor’s degree in Computer Science 99/110 graduation
   languages:
     - language1:
-      name: Chinese
+      name: Italian
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
+      name: French
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
+      name: C/C++
       percentage: 100%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: SQL
+      percentage: 100%
     - skill3:
       name: JavaScript
-      percentage: 70%
+      percentage: 80%
     - skill4:
       name: AngularJS
-      percentage: 70%
+      percentage: 50%
     - skill5:
+      name: PHP
+      percentage: 50%
+    - skill6:
+      name: Python
+      percentage: 50%
+    - skill7:
       name: Java/Java EE
+      percentage: 90%
+    - skill8:
+      name: HTML
       percentage: 90%
