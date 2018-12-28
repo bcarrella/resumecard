@@ -2,8 +2,8 @@
 title: Biagio Carrella's CV 
 description: bcarrella's CV
 favicon: /assets/img/avatar.JPG
-baseurl: http://bcarrella.github.io/resumecard/
-url: http://bcarrella.github.io/resumecard/
+baseurl: https://bcarrella.github.io/resumecard/
+url: https://bcarrella.github.io/resumecard/
 rss_url: /pages/atom.xml
 google_analytics: UA-5243448-5
 cv_url: /assets/CV-Europass-20181228-Carrella-IT.pdf
@@ -19,7 +19,7 @@ author:
   title: ICT Specialist
   address: Napoli, Italy
   email: mail(at)biagiocarrella.it
-  link: http://www.biagiocarrella.it
+  link: https://www.biagiocarrella.it
   weibo:
   github: bcarrella
   linkedin: bcarrella
