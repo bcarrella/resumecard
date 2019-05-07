@@ -1,9 +1,9 @@
 # Site settings
-title: Biagio Carrella's CV 
-description: bcarrella's CV
+title: Biagio Carrella - Software Engineer - CV
+description: Biagio Carrella - skills and work experience in IT field
 favicon: /assets/img/avatar.JPG
-baseurl: https://bcarrella.github.io/resumecard/
-url: https://bcarrella.github.io/resumecard/
+baseurl: https://www.biagiocarrella.it
+url: https://www.biagiocarrella.it/
 rss_url: /pages/atom.xml
 google_analytics: UA-5243448-5
 cv_url: /assets/CV-Europass-20181228-Carrella-IT.pdf
