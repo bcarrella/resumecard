@@ -5,8 +5,9 @@ favicon: /assets/img/avatar.JPG
 baseurl: https://www.biagiocarrella.it
 url: https://www.biagiocarrella.it/
 rss_url: /pages/atom.xml
-google_analytics: UA-5243448-5
-cv_url: /assets/CV-Europass-20181228-Carrella-IT.pdf
+#google_analytics: UA-5243448-5
+#cv_url: /assets/CV-Europass-20181228-Carrella-IT.pdf
+cv_url: 
 
 # Build settings
 markdown: kramdown
@@ -22,8 +23,8 @@ author:
   link: https://www.biagiocarrella.it
   weibo:
   github: bcarrella
-  linkedin: bcarrella
-  twitter: bcarrella
+  linkedin: 
+  twitter: 
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow: 3887276
 #  stackoverflow: 4582127
